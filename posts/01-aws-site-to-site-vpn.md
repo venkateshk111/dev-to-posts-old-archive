@@ -5,7 +5,6 @@ description: Extend your on-premises networks to the cloud
 tags: 'aws, site-to-site, vpn'
 cover_image: ./assets/01-aws-site-to-site-vpn/01-site-to-site-vpn-venki.png
 canonical_url: null
-id: 1968333
 ---
 
 # AWS Site-to-Site VPN
